@@ -1,5 +1,7 @@
 # RNA Sequencing
 
+### Slack id: achiiraa18
+
 ## *Introduction*
 
 RNA-Seq is a powerful high-throughput sequencing technique that offers detailed insights into gene activity, enabling the discovery of new RNA molecules and understanding of gene regulation. By capturing both the quantity and sequence of RNA, it allows researchers to study gene expression dynamics across various conditions, tissues, or developmental stages. Unlike traditional methods, RNA-Seq provides advantages like detecting novel transcripts, identifying splicing events, and offering a dynamic range for gene expression quantification.
